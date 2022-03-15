@@ -25,6 +25,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "javascript": "^1.0.0"
+    "javascript": "^1.0.0",
+    "prompt-sync": "^4.2.0"
   }
 }
